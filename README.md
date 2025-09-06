@@ -22,12 +22,6 @@
 - **249 países** con información geográfica
 - **Validación cruzada** con World Bank API y BigQuery
 
-### 🎨 Tema Visual AirFlow
-- **Paleta de colores**: Azules luminosos con efectos de glow
-- **Logo personalizado**: Ícono de avión con animación de pulso
-- **Efectos visuales**: Sombras luminosas, gradientes, transiciones suaves
-- **Interfaz moderna**: Diseño responsive con efectos interactivos
-
 ### 📈 Visualizaciones Interactivas
 - **Mapa de Calor**: Países vs Meses para patrones estacionales
 - **Gráfico de Líneas**: Tendencias temporales del tráfico aéreo
