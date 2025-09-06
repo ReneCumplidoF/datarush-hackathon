@@ -189,6 +189,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## 👥 Desarrolladores
 
 - **René Cumplido** - *Desarrollo principal* - [@ReneCumplidoF](https://github.com/ReneCumplidoF)
+- **Fernanda Ojeda** - *Desarrollo principal* - [@Fer-Ojeda](https://github.com/Fer-Ojeda)
 
 ## 🙏 Agradecimientos
 
