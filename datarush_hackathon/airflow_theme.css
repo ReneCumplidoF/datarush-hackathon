@@ -1,0 +1,44 @@
+/* AirFlow Theme - Solo logo personalizado con colores predeterminados de Streamlit */
+
+/* Aplicar tema a toda la aplicación - usar colores predeterminados de Streamlit */
+.stApp {
+    /* Usar colores predeterminados de Streamlit */
+}
+
+/* Header principal - usar colores predeterminados de Streamlit */
+.main .block-container h1 {
+    /* Usar colores predeterminados de Streamlit */
+}
+
+/* Título con logo AirFlow - diseño simple */
+.airflow-title {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 1rem;
+}
+
+.airflow-logo {
+    width: 50px;
+    height: 50px;
+    background: #FF4B4B;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 8px rgba(255, 75, 75, 0.3);
+    position: relative;
+}
+
+.airflow-logo::before {
+    content: "✈";
+    font-size: 20px;
+    color: white;
+}
+
+.airflow-title-text {
+    /* Usar colores predeterminados de Streamlit */
+    margin: 0;
+}
+
+/* Usar colores predeterminados de Streamlit para todos los elementos */
